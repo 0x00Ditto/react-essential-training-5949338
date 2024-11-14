@@ -2,3 +2,5 @@
 node_modules
 .tmp
 npm-debug.log
+next-react-project/.next/cache/webpack/client-development/0.pack.gz
+next-react-project/.next/cache/webpack/client-development/0.pack.gz
